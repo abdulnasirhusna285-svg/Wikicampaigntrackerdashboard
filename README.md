@@ -88,7 +88,7 @@ WikiCampaign Tracker is designed for Wikipedia campaign organizers, contributors
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wikicampaign-tracker.git
+gh repo clone abdulnasirhusna285-svg/Wikicampaigntrackerdashboard
 cd wikicampaign-tracker
 ```
 
